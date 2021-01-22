@@ -24,7 +24,7 @@
 14:56 22.01.2021 [byt] [org] [time management]
 14:58 22.01.2021 [byt] [byt] [ochki bt na zaryadku]
 15:01 22.01.2021 [byt] [byt] [koleso na zaryadku]
-15:11 22.01.2021 [byt] [org] [time management]
+15:11 22.01.2021 [byt] [org] [time management] [termux]
 
 
 
