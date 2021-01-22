@@ -27,6 +27,7 @@
 15:11 22.01.2021 [byt] [org] [time management][termux]
 17:16 22.01.2021 [job] [elektrospusk][perepiska]
 17:21 22.01.2021 [byt] [org] [time management][termux]
+19:10 22.01.2021 [eda] [kafe] [pelmeni]
 
 
 
