@@ -1,2 +1,35 @@
+08:00 22.01.2021 [ves] [78]
+08:05 22.01.2021 [tupil]
 12:15 22.01.2021 [eda] [samsa s kuricej] [kofe]
-12:28 22.01.2021 [byt] [sozdanie repozitoriya dlya time managementa]
+12:28 22.01.2021 [byt] [org] [sozdanie repozitoriya dlya time managementa]
+12:40 22.01.2021 [byt] [org] [klonirovaniye repozitoriya na malenkij noutbuk]
+12:48 22.01.2021 [byt] [org] [ustanovka notepad++ na malenkij noutbuk]
+12:53 22.01.2021 [byt] [byt] [tualet]
+12:53 22.01.2021 [byt] [razvl][kinoafisha]
+13:03 22.01.2021 [byt] [lov] [vk Ira]
+13:04 22.01.2021 [byt] [razvl] [vk flud]
+13:12 22.01.2021 [job] [soveschanie elektrospusk]
+13:27 22.01.2021 [byt] [lov] [vk Ira]
+13:30 22.01.2021 [job] [elektrospusk][perepiska] 
+13:36 22.01.2021 [byt] [lov] [vk Ira]
+13:41 22.01.2021 [job] [elektrospusk][perepiska]
+13:45 22.01.2021 [byt] [lov] [vk Ira]
+13:46 22.01.2021 [job] [elektrospusk][perepiska]
+13:46 22.01.2021 [job] [irp][perepiska]
+13:45 22.01.2021 [byt] [razvl] [ochki VR]
+14:11 22.01.2021 [byt] [razvl] [kinoafisha]
+14:22 22.01.2021 [byt] [lov] [vk Ira]
+14:32 22.01.2021 [byt] [byt] [delimobil karta]
+14:22 22.01.2021 [eda] [samsa s kuricej] [kofe]
+14:56 22.01.2021 [byt] [org] [time management]
+14:58 22.01.2021 [byt] [byt] [ochki bt na zaryadku]
+15:01 22.01.2021 [byt] [byt] [koleso na zaryadku]
+15:11 22.01.2021 [byt] [org] [time management]
+
+
+
+
+
+
+
+
