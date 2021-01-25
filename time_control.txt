@@ -28,6 +28,7 @@
 17:16 22.01.2021 [job] [elektrospusk][perepiska]
 17:21 22.01.2021 [byt] [org] [time management][termux]
 
+
 ------------------------------------------------------------------
 00:40 23.01.2021 [byt] [org] [sobaka] [progulka]
 01:10 23.01.2021 [ves] [78.15]
@@ -54,7 +55,25 @@
 15:30 23.01.2021 [byt] [blagotv] [osobyj peterburg]
 
 
-
+01:35 24.01.2021 [son]
+11:26 24.01.2021 [byt] [byt] [probuzhdenie]
+11:53 24.01.2021 [byt] [byt] [vstal]
+11:57 24.01.2021 [lov] [vk Ira]
+12:04 24.01.2021 [byt] [byt] [tualet]
+12:09 24.01.2021 [ves] [76.95]
+12:10 24.01.2021 [byt] [byt] [uborka]
+12:20 24.01.2021 [fit] [zaryadka]
+12:29 24.01.2021 [eda] [tvorog]
+12:35 24.01.2021 [byt] [byt] [pereodevanie]
+12:43 24.01.2021 [beg] 
+13:34 24.01.2021 [byt] [byt] [pereodevanie]
+13:40 24.01.2021 [byt] [razvl] [vk flud]
+13:54 24.01.2021 [byt] [byt] [tualet]
+14:14 24.01.2021 [byt] [byt] [dush]
+14:28 24.01.2021 [ves] [76.1]
+14:29 24.01.2021 [eda] [tvorozhok] [buterbrody] [chaj]
+15:01 24.01.2021 [byt] [byt] [pereodevanie]
+15:30 24.01.2021 [byt] [blagotv] [osobyj peterburg]
 
 
 
