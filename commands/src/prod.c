@@ -10,13 +10,13 @@
 //*****************************
 //*****************************
 
-int main(int argc, char *argv)
+int main(int argc, char **argv)
 {
 
 	// local variables                                         
     //****************************
     FILE *fp;
-    char *file_name = "time_control.txt";
+    char *file_name = "/data/data/com.termux/files/home/time_control/time_control.txt";
     char timestamp[128];
     time_t rawtime;
     time ( &rawtime ); 
@@ -27,7 +27,7 @@ int main(int argc, char *argv)
     fp = fopen(file_name, "a");                 	
                                                                                                            
     if(fp)                                      	                                                       			
-    	fprintf(fp, "%s %s\r\n", timestamp, "[fit] [pull] []");   	                                                       			
+    	fprintf(fp, "%s %s\n", timestamp, "[byt] [magazin] [produkty]");   	                                                       			
                                                                                                            
     if(fp)                                      	                                                       			
     {                                           	                                                       			
